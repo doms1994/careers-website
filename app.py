@@ -24,7 +24,7 @@ JOBS=[
     'id' : 4,
     'title' : 'Full stack engineer',
     'Location' : 'London',
-    'salary' : '125.000 GBP'
+    'salary' : '125.999 GBP'
     }
 ]
 
